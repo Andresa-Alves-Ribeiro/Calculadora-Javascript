@@ -11,6 +11,6 @@
 ## 💻 Projeto
 Calculadora Javascript é um projeto feito para treinar minhas habilidades em Javascript. Projeto desenvolvido durante o Bootcamp Inter Front-end realizados pela Digital Innovation One (DIO) em Janeiro/2022.
 
-Você pode acessar o projeto através [desse link](https://andresa-alves-ribeiro.github.io/Calculadora-Javascript/).
+Você pode acessar o projeto através [desse link](https://calculadora-javascript-seven.vercel.app/).
 
 
